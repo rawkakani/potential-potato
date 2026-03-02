@@ -1,3 +1,5 @@
+> Why do programmers prefer dark mode? Because light attracts bugs! 🐛
+
 # Todo App
 
 A full-stack JavaScript todo application with a React frontend and Node.js backend.
